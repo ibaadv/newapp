@@ -1,6 +1,8 @@
 import './App.css';
 import React, {useState} from 'react';
 
+// Author Mr. Ibaad 
+
 function App() {
   const [data, setData] = useState(null);
   function getData(val){
